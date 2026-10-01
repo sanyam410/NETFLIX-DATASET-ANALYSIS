@@ -175,4 +175,7 @@ This project demonstrates practical experience with:
 
 ---
 
+Kaggle Notebook:
+https://www.kaggle.com/code/sanyam83383/netflix-dataset-2010-2025-analysis
+
 ⭐ If you found this project useful, feel free to explore the notebook and the analysis!
